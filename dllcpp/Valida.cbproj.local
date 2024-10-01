@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/22 16:31:16.000.317,=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/22 16:31:16.000.944,=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/30 14:51:45.076,=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/30 14:51:45.103,=C:\Users\devx\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024/09/30 14:52:16.935,C:\dev\delphi11\proyectos\dllapp\dllcpp\ValidaPCH1.h=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/30 14:52:16.977,C:\dev\delphi11\proyectos\dllapp\dllcpp\File1.cpp=C:\Users\devx\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2024/09/30 14:54:59.873,C:\dev\delphi11\proyectos\dllapp\dllcpp\Valida.cbproj=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/09/30 14:55:23.133,C:\dev\delphi11\proyectos\dllapp\dllcpp\MainDll.cpp=C:\dev\delphi11\proyectos\dllapp\dllcpp\File1.cpp</Transaction>
+    <Transaction>2024/09/30 14:55:34.284,C:\dev\delphi11\proyectos\dllapp\dllcpp\Valida.cbproj=C:\dev\delphi11\proyectos\dllapp\dllcpp\Valida.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,14 @@
+﻿unit ConectaDll;
+
+interface
+
+function ValidaCodigo(sXML:Ansistring; sRFCEmisor:Ansistring; sRFCReceptor:Ansistring; sCertPEMTF:AnsiString;
+                   sURLTF:AnsiString; sCerSat:AnsiString; sKeySat:AnsiString;
+                   sclaveSat:AnsiString):Integer; stdcall;
+
+
+implementation
+
+function ValidaCodigo; external 'timbracfdi.dll'  Name 'TimbrarTF'; stdcall;
+
+end.
