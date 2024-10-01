@@ -15,6 +15,13 @@
 *.so
 *.dylib
 #*.dll
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.map
+*.pdi
+*.tds
 
 # Fortran module files
 *.mod
