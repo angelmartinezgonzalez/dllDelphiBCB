@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/22 16:31:16.000.317,=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/22 16:31:16.000.944,=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/30 17:00:09.856,=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/30 17:00:10.056,=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/30 17:01:22.351,C:\dev\delphi11\proyectos\dllapp\appcpp\TestDllAppCppPCH1.h=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/30 17:01:22.451,C:\dev\delphi11\proyectos\dllapp\appcpp\Unit2.h=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/09/30 17:01:22.451,C:\dev\delphi11\proyectos\dllapp\appcpp\Unit2.dfm=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/09/30 17:01:22.451,C:\dev\delphi11\proyectos\dllapp\appcpp\Unit2.cpp=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/30 17:01:22.506,C:\dev\delphi11\proyectos\dllapp\appcpp\TestDllAppCpp.cbproj=C:\Users\devx\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/09/30 17:01:45.871,C:\dev\delphi11\proyectos\dllapp\appcpp\MainDllTest.h=C:\dev\delphi11\proyectos\dllapp\appcpp\Unit2.h</Transaction>
+    <Transaction>2024/09/30 17:01:45.871,C:\dev\delphi11\proyectos\dllapp\appcpp\MainDllTest.cpp=C:\dev\delphi11\proyectos\dllapp\appcpp\Unit2.cpp</Transaction>
+    <Transaction>2024/09/30 17:01:45.871,C:\dev\delphi11\proyectos\dllapp\appcpp\MainDllTest.dfm=C:\dev\delphi11\proyectos\dllapp\appcpp\Unit2.dfm</Transaction>
+    <Transaction>2024/09/30 17:01:57.227,C:\dev\delphi11\proyectos\dllapp\appcpp\TestDllAppCpp.cbproj=C:\dev\delphi11\proyectos\dllapp\appcpp\TestDllAppCpp.cbproj</Transaction>
+    <Transaction>2024/09/30 17:03:56.154,C:\dev\delphi11\proyectos\dllapp\appcpp\DllTestCpp.cpp=C:\dev\delphi11\proyectos\dllapp\appcpp\MainDllTest.cpp</Transaction>
+    <Transaction>2024/09/30 17:03:56.154,C:\dev\delphi11\proyectos\dllapp\appcpp\DllTestCpp.dfm=C:\dev\delphi11\proyectos\dllapp\appcpp\MainDllTest.dfm</Transaction>
+    <Transaction>2024/09/30 17:03:56.154,C:\dev\delphi11\proyectos\dllapp\appcpp\DllTestCpp.h=C:\dev\delphi11\proyectos\dllapp\appcpp\MainDllTest.h</Transaction>
+    <Transaction>2024/09/30 17:04:36.690,C:\dev\delphi11\proyectos\dllapp\appcpp\TestDllAppCpp.cbproj=C:\dev\delphi11\proyectos\dllapp\appcpp\TestDllAppCpp.cbproj</Transaction>
+    <Transaction>2024/09/30 17:04:43.664,C:\dev\delphi11\proyectos\dllapp\appcpp\TestDllAppCpp.cbproj=C:\dev\delphi11\proyectos\dllapp\appcpp\TestDllAppCpp.cbproj</Transaction>
+    <Transaction>2024/09/30 17:12:20.469,=C:\dev\delphi11\proyectos\dllapp\binWin32\Debug\Valida.lib</Transaction>
+    <Transaction>2024/09/30 17:40:41.411,C:\dev\delphi11\proyectos\dllapp\binWin32\Debug\Valida.lib=</Transaction>
+    <Transaction>2024/09/30 17:41:04.377,=C:\dev\delphi11\proyectos\dllapp\binWin32\Debug\Valida.lib</Transaction>
+    <Transaction>2024/09/30 18:17:11.860,=C:\dev\delphi11\proyectos\dllapp\appcpp\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

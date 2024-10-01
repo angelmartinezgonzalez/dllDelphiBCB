@@ -1,0 +1,49 @@
+﻿unit TestDll;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TTestDllF = class(TForm)
+    GroupBox1: TGroupBox;
+    Label1: TLabel;
+    EditParam1: TEdit;
+    EditParam2: TEdit;
+    Label2: TLabel;
+    Label3: TLabel;
+    ButtonProbarDll: TButton;
+    MemoLog: TMemo;
+    procedure ButtonProbarDllClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  TestDllF: TTestDllF;
+
+implementation
+
+{$R *.dfm}
+
+procedure TTestDllF.ButtonProbarDllClick(Sender: TObject);
+begin
+  MemoLog.Lines.Add('Comienza uso de DLL');
+  MemoLog.Lines.Add('Resultado:
+
+
+    (IntToStr(
+  Valida(
+  EditXMLaTimbrar.Text, EditRFCEmisor.Text, EditRFCReceptor.Text,
+  EditCertPEMTF.Text, EditURLTF.Text,EditCertSat.Text, EditCertKet.Text,
+  EditContraSAT.Text
+  )));
+
+
+end;
+
+end.
